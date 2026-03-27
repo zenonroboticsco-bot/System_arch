@@ -176,7 +176,7 @@ python3 face_enroll.py --list
 
 > Camera frame → face context injection → Zenon API → clean result → Piper TTS
 
-![Scan Mode Flow](screenshots/Scan_mode_flow_drawio.png)
+![Scan Mode Flow](screenshots/Scan_mode_flow.png)
 
 **Scan types:**
 
