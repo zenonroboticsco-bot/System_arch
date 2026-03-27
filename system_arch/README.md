@@ -258,10 +258,10 @@ All `.drawio` files are in the `diagrams/` folder. Open at **[app.diagrams.net](
 | `Master_architecture_v1.drawio` | [↑ see above](#-master-architecture) | Full 5-layer system architecture |
 | `Scan_mode_flow.drawio` | [↑ see above](#-scan-mode--vision-api-flow) | Vision API pipeline |
 | `Startup_sequence.drawio` | [↑ see above](#-startup--launch-sequence) | run.sh launch sequence |
-| `Voice_command_flow.drawio` | — | Mic → OWW → Vosk → intent → TTS |
-| `Face_recognition_pipeline.drawio` | — | HOG→CNN→DB→greet/enroll |
-| `Object_following_flow.drawio` | — | YOLO→tracker→follower→wheels |
-| `09_app_architecture.drawio` | — | Flutter app → HTTP → ROS2 → Hardware |
+| `Voice_command_flow.drawio` | See Diagrams | Mic → OWW → Vosk → intent → TTS |
+| `Face_recognition_pipeline.drawio` | See Diagrams | HOG→CNN→DB→greet/enroll |
+| `Object_following_flow.drawio` | See Diagrams | YOLO→tracker→follower→wheels |
+| `09_app_architecture.drawio` | See Diagrams | Flutter app → HTTP → ROS2 → Hardware |
 
 ---
 
