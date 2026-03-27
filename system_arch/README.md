@@ -55,7 +55,7 @@
 
 > Full system — 5 layers from hardware to Flutter app, all ROS2 nodes and connections
 
-![Master Architecture](screenshots/Master_architecture_v1_drawio.png)
+![Master Architecture](screenshots/Master_architecture_v1.png)
 
 ### Layer Summary
 
