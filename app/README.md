@@ -7,7 +7,7 @@
 ![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20FA%20%7C%20AR-orange?style=flat-square)
 ![Version](https://img.shields.io/badge/Manual-V%201.0-brightgreen?style=flat-square)
 
-*Flutter mobile & desktop app — full control of Robin over Wi-Fi*
+*Flutter mobile app — full control of Robin over Wi-Fi*
 
 </div>
 
